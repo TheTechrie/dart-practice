@@ -8,7 +8,7 @@ void main() {
   double _double = 10.8; // only double... factornumbers...
   bool _truefalse = false; // Only True & False
 
-  print("VarWord: $word\nVarNumber: $number\nVarDouble: $doub");
+  print("VarWord: $word\nVarNumber: $number\nVarDouble: $doub"); // prints the var type variables...
   print("VarTrueFalse: $truefalse\nIntNum: $_num");
   print("DoubleNum: $_double\nBoolTrueFalse: $_truefalse");
 }
